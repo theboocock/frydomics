@@ -7,7 +7,9 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 
 # Papers:
 
-April 28th, 2017 [Saleheen & Natarajan et al 2017. Human knockouts and phenotypic analysis in a cohort with a high rate of consanguinity](https://www.nature.com/nature/journal/v544/n7649/full/nature22034.html) [blame Alex]
+May 2nd, 2017 [Corces et al 2017. Lineage-specific and single-cell chromatin accessibility charts human hematopoiesis and leukemia evolution](https://www.nature.com/nature/journal/v544/n7649/full/nature22034.html) [blame Alex].
+
+April 28th, 2017 [Saleheen & Natarajan et al 2017. Human knockouts and phenotypic analysis in a cohort with a high rate of consanguinity](https://www.nature.com/nature/journal/v544/n7649/full/nature22034.html) [blame Alex].
 
 April 21st, 2017 [Liu et al 2017. Functional Architectures of Local and Distal Regulation of Gene Expression in Multiple Human Tissues.](https://www.ncbi.nlm.nih.gov/pubmed/28343628) [blame James]
 
